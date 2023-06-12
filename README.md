@@ -16,7 +16,7 @@
 ## :thinking: 这是什么 ?
 &emsp;&emsp;相信大多数人可能和我一样，平时在网上学习（闲逛:sweat_smile:）时突然看到好的学习资源，然后立马收藏起来，比如加入了微信收藏或者是添加入浏览器的书签，但是很少去看，突然有一天碰到一个问题，想起来你之前看到过相关的东西，然后开始在收藏夹和书签翻找，这样很耗时间，所以我想把我平时遇到的好的资源，比如好的文章后或者工具，都保存在这里
 
-## :star2: 每日必读
+## :open_book: 每日必读
 以下是我基本上每天没事的时候都会逛一逛的网站，可以学习到很多东西，
   - [web.dev](https://web.dev/blog/)
   - [Chrome Developers](https://developer.chrome.com/blog/)
@@ -26,7 +26,7 @@
   - [阮一峰的网络日志](https://ruanyifeng.com/blog/)
   - [CSS Weekly](https://css-weekly.com/archives/)
   - [V2EX](https://www.v2ex.com/?tab=tech)
-## :star2: 大牛博客
+## :technologist: 大牛博客
 一些技术大牛的博客
   - [Dan Abramov](https://overreacted.io/)
   - [antfu](https://antfu.me/posts)
