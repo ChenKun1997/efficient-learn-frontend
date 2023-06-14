@@ -32,7 +32,7 @@
   - [antfu](https://antfu.me/posts)
 ## :bookmark_tabs: 目录
 - [基础](#基础)
-  - [JavaScript](#javascript)
+  - [JavaScript](#javascript-link)
     - [节流与防抖](#节流与防抖)
     - [正则表达式](#正则表达式)
   - [CSS](#css)
