@@ -30,20 +30,63 @@
 一些技术大牛的博客
   - [Dan Abramov](https://overreacted.io/)
   - [antfu](https://antfu.me/posts)
-<!-- ## :bookmark_tabs: 目录 -->
+## :bookmark_tabs: 目录
+好的，以下是提取出来的目录，每个标题都可以点击跳转到对应的内容区域：
+
+- [efficient-learn-frontend](#efficient-learn-frontend)
+  - [如何高效自学](#如何高效自学)
+  - [每日必读](#每日必读)
+  - [大牛博客](#大牛博客)
+  - [基础](#基础)
+    - [JavaScript](#javascript)
+      - [节流与防抖](#节流与防抖)
+      - [正则表达式](#正则表达式)
+    - [CSS](#css)
+    - [HTML](#html)
+    - [TypeScript](#typescript)
+    - [Node](#node)
+    - [Git](#git)
+  - [前端框架](#前端框架)
+    - [React](#react)
+    - [Vue](#vue)
+  - [后端框架](#后端框架)
+    - [Nest](#nest)
+    - [Express](#express)
+    - [Koa](#koa)
+  - [工程化](#工程化)
+    - [Webpack](#webpack)
+    - [Vite](#vite)
+    - [Babel](#babel)
+    - [Rollup](#rollup)
+    - [esbuild](#esbuild)
+    - [SWC](#swc)
+  - [包管理工具](#包管理工具)
+    - [Yarn](#yarn)
+    - [NPM](#npm)
+    - [PNPM](#pnpm)
+  - [规范化](#规范化)
+    - [JavaScript规范](#javascript规范)
+    - [Commit提交规范](#commit提交规范)
+    - [语义化版本规范](#语义化版本规范)
+  - [AI](#ai)
+  - [其他](#其他)
 ## :star2: 基础
 
 ### :star: JavaScript [:link:](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
   一些JavaScript的基础教程
   - [现代 JavaScript 教程](https://zh.javascript.info/)
-
+  - [ES6 入门教程](https://es6.ruanyifeng.com/)
   #### 节流与防抖
   - [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
-  #### [正则](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)
+  - [JavaScript专题之跟着underscore学防抖](https://github.com/mqyqingfeng/Blog/issues/22)
+  - [JavaScript专题之跟着 underscore 学节流](https://github.com/mqyqingfeng/Blog/issues/26)
+  
+  #### 正则表达式
  下面是一些正则正则表达式的工具库
   - https://regex101.com/
   - https://regex-vis.com/
   - https://regexlearn.com/zh-cn/learn
+  - [JS 正则迷你书](https://github.com/qdlaoyao/js-regex-mini-book) `个人认为最牛的正则教程，讲的很全面`
   - [正则表达式30分钟入门教程](https://deerchao.cn/tutorials/regex/regex.htm?ref=nav.poetries.top)
   - [Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript)
 
@@ -59,9 +102,10 @@
 ### :star: Node [:link:](https://nodejs.org/)
 
 ### :star: Git [:link:](https://git-scm.com/doc)
-  - [Git Cheat Sheet](https://cs.fyi/guide/git-cheatsheet)
   - [Pro Git](https://www.progit.cn/)
-  - [GitHub Actions](https://docs.github.com/zh/actions/quickstart) `官方教程`
+  - [GitHub Actions](https://docs.github.com/zh/actions/quickstart) `官方GitHub Actions教程`
+  - [交互式学习Git](https://learngitbranching.js.org/?locale=zh_CN)
+  - [Git Cheat Sheet](https://cs.fyi/guide/git-cheatsheet)
 
 ## :star2: 前端框架
 
@@ -84,6 +128,10 @@
 ### :star: Webpack [:link:](https://webpack.js.org/)
 
 ### :star: Vite [:link:](https://vitejs.dev/)
+
+### :star: Babel [:link:](https://rollupjs.org/)
+
+ - [babel-handbook](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md)
 
 ### :star: Rollup [:link:](https://rollupjs.org/)
 
@@ -111,6 +159,10 @@
 ### :star: 语义化版本规范 [:link:](https://semver.org/lang/zh-CN/)
 
 ## :star2: AI
+  - [Poe](https://poe.com/ChatGPT)
+  - [phind](https://www.phind.com/) `The AI search engine for developers.`
+  - [forefront chat](https://chat.forefront.ai/)
+  - [freegpt](https://freegpt.one/)
   - [AI工具集](https://ai-bot.cn/)
   - [Stability AI](https://stability.ai/)
   - [BAI Chat](https://chatbot.theb.ai/#/chat/1002)
