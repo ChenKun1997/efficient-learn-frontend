@@ -23,6 +23,7 @@
   - [CSS-Tricks](https://css-tricks.com/archives/)
   - [MDN Blog](https://developer.mozilla.org/en-US/blog/)
   - [JavaScript Weekly](https://javascriptweekly.com/)
+  - [dev.to](https://dev.to/)
   - [阮一峰的网络日志](https://ruanyifeng.com/blog/)
   - [CSS Weekly](https://css-weekly.com/archives/)
   - [V2EX](https://www.v2ex.com/?tab=tech)
@@ -74,10 +75,14 @@
   - [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
   - [JavaScript专题之跟着underscore学防抖](https://github.com/mqyqingfeng/Blog/issues/22)
   - [JavaScript专题之跟着 underscore 学节流](https://github.com/mqyqingfeng/Blog/issues/26)
+
+  #### 事件循环
+  - [JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
   
   #### 正则表达式
  下面是一些正则正则表达式的工具库
   - https://regex101.com/
+  - https://jex.im/regulex/
   - https://regex-vis.com/
   - https://regexlearn.com/zh-cn/learn
   - [JS 正则迷你书](https://github.com/qdlaoyao/js-regex-mini-book) `个人认为最牛的正则教程，讲的很全面`
@@ -138,6 +143,7 @@
 ### Yarn [:link:](https://yarnpkg.com/)
 
 ### NPM [:link:](https://www.npmjs.com/)
+  - [npm cheat sheet](https://browsenpm.org/)
 
 ### PNPM [:link:](https://pnpm.io/)
 
@@ -153,6 +159,7 @@
 ### 语义化版本规范 [:link:](https://semver.org/lang/zh-CN/)
 
 ## AI
+  - [framer](https://www.framer.com/) ``
   - [Poe](https://poe.com/ChatGPT)
   - [phind](https://www.phind.com/) `The AI search engine for developers.`
   - [forefront chat](https://chat.forefront.ai/)
@@ -161,6 +168,31 @@
   - [Stability AI](https://stability.ai/)
   - [BAI Chat](https://chatbot.theb.ai/#/chat/1002)
 
+## 面试
+- [小林coding](https://xiaolincoding.com/)
+- [剑指前端 Offer](http://febook.hzfe.org/awesome-interview/)
+- [前端进阶之旅](https://interview.poetries.top/)
+- [山月](https://q.shanyue.tech/fe/)
+- [木易杨前端进阶](https://muyiy.cn/question/)
+- [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese/)
+- [30 Seconds of Interviews](https://30secondsofinterviews.org/)
+- [前端面试秘籍](https://github.com/yisainan/web-interview)
+- [all-of-frontend](https://github.com/KieSun/all-of-frontend)
+- [web前端面试 - 面试官系列](https://vue3js.cn/interview/)
+- [daily](https://github.com/pwstrick/daily)
+- [Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
+- [前端面试每日 3+1](https://github.com/haizlin/fe-interview)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- [反向面试](https://github.com/yifeikong/reverse-interview-zh)
+
+## 浏览器插件
+  - [LocatorJS](https://chrome.google.com/webstore/detail/locatorjs/npbfdllefekhdplbkdigpncggmojpefi) `option + click页面快速定位到源码`
+  - [Relingo](https://chrome.google.com/webstore/detail/relingo-master-words-from/dpphkcfmnbkdpmgneljgdhfnccnhmfig) `划词翻译`
+  - [OpenAI Translator](https://chrome.google.com/webstore/search/OpenAI%20Translator) `划词翻译`
+  - [沉浸式翻译](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
+  - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) `去广告`
+  - [Proxy](https://chrome.google.com/webstore/detail/proxy/kmknalkgockihjefhochkpcnjacmlnfa) `资源代理`
+  - [XSwitch](https://chrome.google.com/webstore/detail/xswitch/idkjhjggpffolpidfkikidcokdkdaogg) `资源代理`
 
 ## 其他
  - [计算机教育中缺失的一课](https://missing-semester-cn.github.io/) `开发工具相关教程`
