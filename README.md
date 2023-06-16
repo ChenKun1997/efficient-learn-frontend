@@ -103,6 +103,7 @@
 ### Git [:link:](https://git-scm.com/doc)
   - [Pro Git](https://www.progit.cn/)
   - [GitHub Actions](https://docs.github.com/zh/actions/quickstart) `官方GitHub Actions教程`
+  - [GitHub Actions by Example](https://www.actionsbyexample.com/) `通过案例学习GitHub Actions`
   - [交互式学习Git](https://learngitbranching.js.org/?locale=zh_CN)
   - [Git Cheat Sheet](https://cs.fyi/guide/git-cheatsheet)
 
@@ -158,9 +159,12 @@
 
 ### 语义化版本规范 [:link:](https://semver.org/lang/zh-CN/)
 
+## 笔记
+ - [Obsidian中文社区](https://pkmer.cn/)
+
 ## AI
-  - [framer](https://www.framer.com/) ``
   - [Poe](https://poe.com/ChatGPT)
+  - [framer](https://www.framer.com/) `AI生成网站`
   - [phind](https://www.phind.com/) `The AI search engine for developers.`
   - [forefront chat](https://chat.forefront.ai/)
   - [freegpt](https://freegpt.one/)
